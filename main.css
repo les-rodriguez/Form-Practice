@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Oswald';
+    src: url('fonts/oswald-variablefont_wght-webfont.woff') format('woff');
+}
+form {
+    font-family: 'Oswald';
+    padding: 10px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    margin: 150px 0 150px 500px;
+}
+input {
+    margin: 5px 0;
+}
+input[type=submit] {
+    padding: 2px 90px;
+    margin: 15px 0 5px 0;
+}
